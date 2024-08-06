@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-14gyngfun-khushis-projects-79c1592d.vercel.app" target="_blank">khushi.tech</a>
+  <a href="https://portfolio-3uhg95h7v-khushis-projects-79c1592d.vercel.app/project" target="_blank">khushi.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
